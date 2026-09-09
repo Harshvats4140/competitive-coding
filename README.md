@@ -32,6 +32,7 @@
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Harshvats4140/competitive-coding/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Harshvats4140/competitive-coding/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -53,4 +54,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Harshvats4140/competitive-coding/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Harshvats4140/competitive-coding/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
