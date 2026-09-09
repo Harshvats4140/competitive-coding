@@ -16,18 +16,22 @@
 ## Tree
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Harshvats4140/competitive-coding/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Harshvats4140/competitive-coding/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Harshvats4140/competitive-coding/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Harshvats4140/competitive-coding/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Harshvats4140/competitive-coding/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Harshvats4140/competitive-coding/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Harshvats4140/competitive-coding/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Harshvats4140/competitive-coding/tree/master/0199-binary-tree-right-side-view) |
 ## Array
 |  |
@@ -58,4 +62,8 @@
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Harshvats4140/competitive-coding/tree/master/0162-find-peak-element) |
+## Linked List
+|  |
+| ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Harshvats4140/competitive-coding/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 <!---LeetCode Topics End-->
