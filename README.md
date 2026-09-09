@@ -23,6 +23,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Harshvats4140/competitive-coding/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Harshvats4140/competitive-coding/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Harshvats4140/competitive-coding/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Harshvats4140/competitive-coding/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Harshvats4140/competitive-coding/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Harshvats4140/competitive-coding/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Harshvats4140/competitive-coding/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Harshvats4140/competitive-coding/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -40,6 +42,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Harshvats4140/competitive-coding/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Harshvats4140/competitive-coding/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Harshvats4140/competitive-coding/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Harshvats4140/competitive-coding/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -50,6 +53,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Harshvats4140/competitive-coding/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Harshvats4140/competitive-coding/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Harshvats4140/competitive-coding/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Harshvats4140/competitive-coding/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Array
 |  |
 | ------- |
