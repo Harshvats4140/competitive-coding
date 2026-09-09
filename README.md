@@ -26,6 +26,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Harshvats4140/competitive-coding/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Harshvats4140/competitive-coding/tree/master/0662-maximum-width-of-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Harshvats4140/competitive-coding/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Harshvats4140/competitive-coding/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Harshvats4140/competitive-coding/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Harshvats4140/competitive-coding/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Harshvats4140/competitive-coding/tree/master/0662-maximum-width-of-binary-tree) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Harshvats4140/competitive-coding/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -48,6 +50,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Harshvats4140/competitive-coding/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Harshvats4140/competitive-coding/tree/master/0662-maximum-width-of-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Harshvats4140/competitive-coding/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Harshvats4140/competitive-coding/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Tree
 |  |
 | ------- |
@@ -61,11 +64,13 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Harshvats4140/competitive-coding/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Harshvats4140/competitive-coding/tree/master/0662-maximum-width-of-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Harshvats4140/competitive-coding/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Harshvats4140/competitive-coding/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Array
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Harshvats4140/competitive-coding/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Harshvats4140/competitive-coding/tree/master/0169-majority-element) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Harshvats4140/competitive-coding/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Hash Table
 |  |
 | ------- |
